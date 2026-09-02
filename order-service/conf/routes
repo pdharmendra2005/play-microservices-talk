@@ -1,0 +1,10 @@
+# order-service routes
+# This service is a SERVER to the browser and a CLIENT of user-service.
+#
+# Commented out so the skeleton compiles as-is. Uncomment each line once the
+# matching controller method exists.
+
+# POST    /orders             controllers.OrderController.createOrder(userId: String)
+# GET     /orders             controllers.OrderController.createOrder(userId: String)
+
+# GET     /health             controllers.HealthController.health

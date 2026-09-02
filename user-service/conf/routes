@@ -1,0 +1,11 @@
+# user-service routes
+# GUIDE: Part 2, Step 1
+#
+# Routes are COMPILED. A route pointing at a method you have not written yet
+# breaks the build -- so they start commented out. Uncomment each line as you
+# implement the matching controller method.
+
+# GET     /users/:id          controllers.UserController.getUser(id: String)
+
+# health check - every service should have one
+# GET     /health             controllers.HealthController.health
